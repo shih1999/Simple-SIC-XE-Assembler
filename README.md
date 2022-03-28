@@ -112,10 +112,10 @@ $ python3 pass2.py
 - Date : 2022/01/20
 
 ### TODO
-- [] Add M record.
+- [ ] Add M record.
 
-- [] If your assembly is a one-pass assembly.
-- [] If the implementation of your assembly includes “Literals”
-- [] If the implementation of your assembly includes “Symbol-defining Statements”
-- [] If the implementation of your assembly includes “Program Blocks”
-- [] If the implementation of your assembly includes “Control Sections
+- [ ] If your assembly is a one-pass assembly.
+- [ ] If the implementation of your assembly includes “Literals”
+- [ ] If the implementation of your assembly includes “Symbol-defining Statements”
+- [ ] If the implementation of your assembly includes “Program Blocks”
+- [ ] If the implementation of your assembly includes “Control Sections
